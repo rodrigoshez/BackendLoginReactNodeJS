@@ -1,2 +1,2 @@
-npm install mysql
 npm install --save express
+npm install sequelize
